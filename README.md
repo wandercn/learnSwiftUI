@@ -22,6 +22,8 @@ https://goswiftui.com/swiftui-tutoria/
 
 ## 入门SwiftUI 开发视频教程
 
+Fishing 目录是这个视频的联系项目源码
+
 https://space.bilibili.com/1934650492/channel/collectiondetail?sid=12404&ctype=0
 
 ## 另一个SwiftUI 开发入门教程
