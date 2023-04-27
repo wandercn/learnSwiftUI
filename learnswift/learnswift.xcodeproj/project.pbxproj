@@ -13,6 +13,7 @@
 		61AC25CC29FA258800B5AB64 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61AC25CB29FA258800B5AB64 /* Preview Assets.xcassets */; };
 		61AC25D329FA56E600B5AB64 /* StackBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61AC25D229FA56E600B5AB64 /* StackBootcamp.swift */; };
 		61AC25D529FA6F4000B5AB64 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61AC25D429FA6F4000B5AB64 /* SafeAreaBootcamp.swift */; };
+		61AC25D729FA734A00B5AB64 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61AC25D629FA734A00B5AB64 /* ButtonsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		61AC25CB29FA258800B5AB64 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		61AC25D229FA56E600B5AB64 /* StackBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBootcamp.swift; sourceTree = "<group>"; };
 		61AC25D429FA6F4000B5AB64 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
+		61AC25D629FA734A00B5AB64 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +41,7 @@
 		61AC25B829FA258700B5AB64 = {
 			isa = PBXGroup;
 			children = (
+				61AC25D629FA734A00B5AB64 /* ButtonsBootcamp.swift */,
 				61AC25C329FA258700B5AB64 /* learnswift */,
 				61AC25C229FA258700B5AB64 /* Products */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				61AC25C729FA258700B5AB64 /* ContentView.swift in Sources */,
 				61AC25D329FA56E600B5AB64 /* StackBootcamp.swift in Sources */,
+				61AC25D729FA734A00B5AB64 /* ButtonsBootcamp.swift in Sources */,
 				61AC25C529FA258700B5AB64 /* learnswiftApp.swift in Sources */,
 				61AC25D529FA6F4000B5AB64 /* SafeAreaBootcamp.swift in Sources */,
 			);
