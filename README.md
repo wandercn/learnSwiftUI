@@ -44,3 +44,10 @@ https://developer.apple.com/documentation/swiftui/
 
 https://developer.apple.com/documentation/swift
 
+## 三方开发的UI组件库
+
+https://github.com/SwiftUIX/SwiftUIX
+
+## 简化异步编程的框架RxSwift
+
+https://beeth0ven.github.io/RxSwift-Chinese-Documentation/
