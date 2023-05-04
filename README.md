@@ -51,3 +51,7 @@ https://github.com/SwiftUIX/SwiftUIX
 ## 简化异步编程的框架RxSwift
 
 https://beeth0ven.github.io/RxSwift-Chinese-Documentation/
+
+## 函数式 Swift
+
+https://objccn.io/products/functional-swift/
