@@ -36,6 +36,10 @@ https://www.bilibili.com/video/BV1pJ411C7Co/?p=10&spm_id_from=pageDriver&vd_sour
 
 https://www.bilibili.com/video/BV1KY411f7in/?spm_id_from=333.788.recommend_more_video.7&vd_source=56aabea48fd6e4621a6e668edf445932
 
+## 官方图标资源下载地址
+
+https://developer.apple.com/design/resources/#sf-symbols
+
 ## SwiftUI官方文档（英文）
 
 https://developer.apple.com/documentation/swiftui/
