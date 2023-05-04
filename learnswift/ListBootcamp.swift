@@ -42,8 +42,10 @@ struct ListBootcamp: View {
                 Section(header:
                             HStack {
                     Text("Veggies")
-                    Image(systemName: "flame.veggies")
+                    Image(systemName: "heart.circle.fill")
                 }
+                    .font(.headline)
+                    .foregroundColor(.red)
                 ){
                     ForEach(Veggies,id: \.self){
                         veggie in
