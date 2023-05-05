@@ -9,10 +9,10 @@ import SwiftUI
 
 struct TabViewBootcamp: View {
     
-    @State var selectedTab: Int = 2
+    @State var selectedTab: Int = 0
     var body: some View {
         TabView(selection: $selectedTab){
-            HomeView()
+            HomeView(selectedTab: $selectedTab)
                 .tabItem{
                     Image(systemName: "house.fill")
                     Text("Home")
@@ -38,13 +38,28 @@ struct TabViewBootcamp: View {
 }
 
 struct HomeView: View {
-    
+    @Binding var selectedTab: Int
     var body: some View {
         ZStack{
             Color.red.edgesIgnoringSafeArea(.top)
-            Text("Home Tab")
-                .font(.largeTitle)
+            VStack {
+                Text("Home Tab")
+                    .font(.largeTitle)
                 .foregroundColor(.white)
+                
+                Button(action: {
+                    selectedTab = 2
+                }, label: {
+                    Text("Go to profile")
+                        .font(.headline)
+                        .padding()
+                        .padding(.horizontal)
+                        .background(Color.white)
+                        .cornerRadius(10)
+                })
+            }
+            
+
         }
     }
 }
