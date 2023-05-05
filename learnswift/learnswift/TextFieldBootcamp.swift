@@ -13,6 +13,7 @@ struct TextFieldBootcamp: View {
     @State var dataArray: [String] = []
     
     var body: some View {
+        NavigationView {
         VStack{
             TextField("请输入文本...",text: $textFieldText)
                 .padding()
@@ -39,6 +40,8 @@ struct TextFieldBootcamp: View {
                 Text(data)
             }
             Spacer()
+        }
+        .padding()
         }
     }
     
