@@ -33,7 +33,7 @@ struct BadgesBootcamp: View {
                 }
                 .badge(3)
             .edgesIgnoringSafeArea(.top)
-                
+            
         }
        
     }
