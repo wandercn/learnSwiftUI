@@ -12,7 +12,8 @@ struct learnswiftApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            AppStorageBootcamp()
+//            AppStorageBootcamp()
+            BadgesBootcamp()
         }
     }
 }
