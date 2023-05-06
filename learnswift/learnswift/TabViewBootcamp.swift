@@ -37,7 +37,7 @@ struct TabViewBootcamp: View {
     }
 }
 
-struct HomeView: View {
+   struct HomeView: View {
     @Binding var selectedTab: Int
     var body: some View {
         ZStack{

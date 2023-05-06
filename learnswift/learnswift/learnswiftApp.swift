@@ -11,7 +11,8 @@ import SwiftUI
 struct learnswiftApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            AppStorageBootcamp()
         }
     }
 }
