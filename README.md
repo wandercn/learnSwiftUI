@@ -2,6 +2,8 @@
 
 ## Swift语言入门中文教程
 
+http://www.swift51.com/swift5.1/
+
 https://swiftgg.gitbook.io/swift/swift-jiao-cheng
 
 ## xcode 非appstore下载安装

@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "builtin.ftl",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
